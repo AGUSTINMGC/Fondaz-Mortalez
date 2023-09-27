@@ -1,2 +1,2 @@
 # FondaZ_MortaleZ
- contribuyan (al tomas le gusta el cabeza de bombero)
+ contribuyan (al agu le gusta el cabeza de bombero)
