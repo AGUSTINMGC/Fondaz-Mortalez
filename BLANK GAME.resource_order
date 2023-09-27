@@ -17,7 +17,6 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Sprite10","order":13,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Skick","order":3,"path":"sprites/Skick/Skick.yy",},
     {"name":"S_enemy","order":4,"path":"sprites/S_enemy/S_enemy.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
@@ -26,6 +25,7 @@
     {"name":"Sdezlizamiento","order":7,"path":"sprites/Sdezlizamiento/Sdezlizamiento.yy",},
     {"name":"OHUD","order":6,"path":"objects/OHUD/OHUD.yy",},
     {"name":"Ocamera","order":5,"path":"objects/Ocamera/Ocamera.yy",},
+    {"name":"Ataque_de_lejos","order":7,"path":"objects/Ataque_de_lejos/Ataque_de_lejos.yy",},
     {"name":"sAtack","order":10,"path":"sprites/sAtack/sAtack.yy",},
     {"name":"S_right","order":2,"path":"sprites/S_right/S_right.yy",},
     {"name":"Sprite6","order":6,"path":"sprites/Sprite6/Sprite6.yy",},
