@@ -1,0 +1,1 @@
+global.VidaZombie = 10;
